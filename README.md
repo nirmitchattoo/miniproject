@@ -1,1 +1,1 @@
-# miniproject
+# Nimrat-Mini-Proj

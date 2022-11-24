@@ -1,0 +1,26 @@
+{
+  "name": "nimrat-mini-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rising-entropy/Nimrat-Mini-Proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rising-entropy/Nimrat-Mini-Proj/issues"
+  },
+  "homepage": "https://github.com/rising-entropy/Nimrat-Mini-Proj#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "got": "^12.5.1",
+    "jssoup": "^0.0.15"
+  }
+}
